@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## About
+
+This is a demo Next.js app used to exercise an issue-to-PR coding agent pipeline. It serves as a simple, disposable target for testing automated code changes end-to-end.
+
 ## Getting Started
 
 First, run the development server:
